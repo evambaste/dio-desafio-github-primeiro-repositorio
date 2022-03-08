@@ -1,5 +1,6 @@
-# Repositório do Desafio de Projeto sobre Git/GitHub da DIO
-Repositório criado para o desafio de Projeto.
+# Estudos Concurso Público
+Link de 5 sites para estudar para concurso público.
 
 ## Links Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax)
+[Sintaxe Básica Markdown](https://www.youtube.com/watch?v=sLwxD8Ur1hw)
+
